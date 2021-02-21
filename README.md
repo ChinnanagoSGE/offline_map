@@ -7,7 +7,8 @@
 　動作に必要なライブラリを記す．バージョンは動作確認済みのもの．
  - Python 3.7
  - pySerial 3.0
- - micropyGPS 8.1
+ - websockets 8.1
+ - micropyGPS
  
 ## 準備
 　QJIS(3.16)を用いてマップタイル(png)を"./leaflet"にダウウンロード．（"qjis_download.pdf"参照）
